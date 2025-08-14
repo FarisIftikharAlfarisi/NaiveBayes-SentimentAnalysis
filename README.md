@@ -4,7 +4,6 @@
 ##Overview Proyek
 Proyek ini bertujuan untuk melakukan analisis sentimen pada ulasan pengguna aplikasi Bilibli.com menggunakan algoritma Naive Bayes Classifier. Proses analisis sentimen ini mencakup beberapa tahapan utama, dengan highlight pada penggunaan berbagai teknik spellchecking untuk meningkatkan kualitas data teks sebelum pemodelan.
 
-# Analisis Sentimen Ulasan Aplikasi Bilibli.com
 
 ## Alur Kerja Proyek
 
